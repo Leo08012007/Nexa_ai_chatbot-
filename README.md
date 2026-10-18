@@ -235,11 +235,4 @@ The application catches exceptions (such as `AuthenticationError` or `RateLimitE
 
 ---
 
-## 📸 Recommended Screenshots for AIT Record Practical Book
 
-To present this lab task in your practical record book, capture:
-1. **Welcome Screen:** Showing NEXA AI logo, header status, and 4 suggestion prompt cards.
-2. **Multi-turn Conversation:** Demonstrating context memory (e.g., Query 1: *"What is Artificial Intelligence?"*, Query 2: *"Give me 3 key applications"*).
-3. **Code Syntax Highlighting:** Asking a programming query (e.g., *"Write a Python program to reverse a string"*) showing code block and Copy button.
-4. **Settings & Viva Modal:** Showing system model details and the built-in Viva guide.
-5. **Mobile View:** Showing responsive drawer layout on small screens.
